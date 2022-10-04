@@ -1,4 +1,7 @@
-#include<iostream>
+//Muhammad WAjid Ali//
+
+
+#include<iostream>  
 #include<algorithm>
 #include<vector>
 template<class it>
